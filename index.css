@@ -1,0 +1,21 @@
+body {
+  margin: 0px;
+}
+.background {
+  background-color: #0f172a;
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.head {
+  color: #f8fafc;
+  font-family: "Roboto";
+  font-size: 30px;
+}
+.image {
+  width: 400px;
+  height: 200px;
+}
